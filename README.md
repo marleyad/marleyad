@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Scient Projects:</h2>
 
 - <b>Study Data Analysis</b>
-  - [Analysizing CSV Study Data with RNotebooks](https://github.com/marleyad/studydata)
+  - [Analyzed and visualized personal study habits](https://github.com/marleyad/studydata)
 - <b>R Projects</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
