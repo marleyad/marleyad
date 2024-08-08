@@ -7,7 +7,7 @@
 - <b>R Projects</b>
   - [R-Powered Data Science Projects and Insights](https://github.com/marleyad/R-projects)
 - <b>SQL Projects</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/marleyad/SQL-Exercises)
 
 <h2> 🤳 Connect with me:</h2>
 
