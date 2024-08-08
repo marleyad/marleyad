@@ -5,7 +5,7 @@
 - <b>Study Data Analysis(R)</b>
   - [Analyzed and visualized personal study habits](https://github.com/marleyad/studydata)
 - <b>R Projects</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/marleyad/R-projects)
+  - [R-Powered Data Science Projects and Insights](https://github.com/marleyad/R-projects)
 - <b>SQL Projects</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
