@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adam! <br/><a href="https://github.com/joshmadakor1">Data Scientist</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Programmer</a></h1>
+<h1>Hi, I'm Adam! <br/>Data Scientist, Programmer</br></h1>
 
 <h2>👨‍💻 Data Scient Projects:</h2>
 
