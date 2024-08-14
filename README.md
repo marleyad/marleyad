@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adam! <br/>Data Scientist, Programmer</br></h1>
+<h1>Hi, I'm Adam! <br/>Data Scientist, Analyst, Programmer</br></h1>
 
 <h2>👨‍💻 Data Scient Projects:</h2>
 
