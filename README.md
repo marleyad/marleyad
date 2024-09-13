@@ -9,7 +9,7 @@
 - <b>SQL Projects</b>
   - [Schema and Queries](https://github.com/marleyad/SQL-Exercises)
 - <b>Tableau Visuals</b>
-  - [Tableau Portforlio](https://public.tableau.com/app/profile/adam.marley7142/vizzes)
+  - [Tableau Portfolio](https://public.tableau.com/app/profile/adam.marley7142/vizzes)
 
 <h2> 🤳 Connect with me:</h2>
 
