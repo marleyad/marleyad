@@ -10,7 +10,7 @@
   - [SQL Data Analysis Projects](https://github.com/marleyad/SQL-Exercises)
 - <b>Python (Numpy and Pandas)</b>
   - [Course Work](https://github.com/marleyad/numpy_and_pandas) *(private - request access due to academic integrity policies)*
-- <b>Tableau Visuals</b>
+- <b>Tableau</b>
   - [Final Project Portfolio](https://public.tableau.com/app/profile/adam.marley7142/vizzes)
 
 <h2> 🤳 Connect with me:</h2>
