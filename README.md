@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Projects:</h2>
 
 - <b>R</b>
-  - [Peronsal Study Time Analysis](https://github.com/marleyad/studydata)
+  - [Personal Study Time Analysis](https://github.com/marleyad/studydata)
 - <b>SQL</b>
   - [Data Analysis Queries](https://github.com/marleyad/SQL-Exercises)
 - <b>Python (Numpy and Pandas)</b>
