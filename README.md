@@ -1,6 +1,6 @@
 <h1>Hi, I'm Adam! <br/>Data Scientist, Analyst, Programmer</br></h1>
 
-<h2>👨‍💻 Data Scient Projects:</h2>
+<h2>👨‍💻 Data Projects:</h2>
 
 - <b>R</b>
   - [Analyzed and visualized personal study habits](https://github.com/marleyad/studydata)
