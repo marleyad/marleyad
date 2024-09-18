@@ -5,7 +5,7 @@
 - <b>R</b>
   - [Analyzed and visualized personal study habits](https://github.com/marleyad/studydata)
 - <b>SQL</b>
-  - [SQL Data Analysis Projects](https://github.com/marleyad/SQL-Exercises)
+  - [Data Analysis Queries](https://github.com/marleyad/SQL-Exercises)
 - <b>Python (Numpy and Pandas)</b>
   - [Course Work](https://github.com/marleyad/numpy_and_pandas) *(private - request access due to academic integrity policies)*
 - <b>Tableau</b>
