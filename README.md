@@ -8,6 +8,8 @@
   - [R-Powered Data Science Projects and Insights](https://github.com/marleyad/R-projects)
 - <b>SQL</b>
   - [SQL Data Analysis Projects](https://github.com/marleyad/SQL-Exercises)
+- <b>Python (Numpy and Pandas)</b>
+  - [Course Work From Eastern]()
 - <b>Tableau Visuals</b>
   - [Tableau Portfolio](https://public.tableau.com/app/profile/adam.marley7142/vizzes)
 
