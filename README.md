@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Scient Projects:</h2>
 
-- <b>Study Data Analysis(R)</b>
+- <b>R</b>
   - [Analyzed and visualized personal study habits](https://github.com/marleyad/studydata)
 - <b>R Projects</b>
   - [R-Powered Data Science Projects and Insights](https://github.com/marleyad/R-projects)
