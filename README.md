@@ -9,7 +9,7 @@
 - <b>SQL</b>
   - [SQL Data Analysis Projects](https://github.com/marleyad/SQL-Exercises)
 - <b>Python (Numpy and Pandas)</b>
-  - [Course Work From Eastern University**Access available upon request due to academic integrity policies.](https://github.com/marleyad/numpy_and_pandas)
+  - [Course Work](https://github.com/marleyad/numpy_and_pandas) *(private - request access due to academic integrity policies)*
 - <b>Tableau Visuals</b>
   - [Tableau Portfolio](https://public.tableau.com/app/profile/adam.marley7142/vizzes)
 
