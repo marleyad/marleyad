@@ -11,7 +11,7 @@
 - <b>Python (Numpy and Pandas)</b>
   - [Course Work](https://github.com/marleyad/numpy_and_pandas) *(private - request access due to academic integrity policies)*
 - <b>Tableau Visuals</b>
-  - [Tableau Portfolio](https://public.tableau.com/app/profile/adam.marley7142/vizzes)
+  - [Final Project Portfolio](https://public.tableau.com/app/profile/adam.marley7142/vizzes)
 
 <h2> 🤳 Connect with me:</h2>
 
