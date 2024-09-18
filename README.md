@@ -4,8 +4,6 @@
 
 - <b>R</b>
   - [Analyzed and visualized personal study habits](https://github.com/marleyad/studydata)
-- <b>R Projects</b>
-  - [R-Powered Data Science Projects and Insights](https://github.com/marleyad/R-projects)
 - <b>SQL</b>
   - [SQL Data Analysis Projects](https://github.com/marleyad/SQL-Exercises)
 - <b>Python (Numpy and Pandas)</b>
