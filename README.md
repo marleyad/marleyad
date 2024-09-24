@@ -13,7 +13,7 @@
 
 - **Python (NumPy and Pandas)**
   - [Course Work](https://github.com/marleyad/numpy_and_pandas) *(private - request access due to academic integrity policies)*  
-  Hands-on exercises and projects using Python for data manipulation, analysis, and visualization.
+  Hands-on exercises and projects using Python for data manipulation and analysis.
 
 - **Tableau**
   - [Final Project](https://github.com/marleyad/tableauproject/tree/main)  
