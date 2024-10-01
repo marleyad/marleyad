@@ -16,7 +16,7 @@
   Hands-on exercises and projects using Python for data manipulation and analysis.
 
 - **Tableau**
-  - [Final Project](https://github.com/marleyad/tableauproject/tree/main)  
+  - [Sales Dashboard/Visuals](https://github.com/marleyad/tableauproject/tree/main)  
   Advanced data visualization project using Tableau to uncover insights from a sales dataset and create an interactive dashboard.
 
 ### 🤳 Connect with Me
