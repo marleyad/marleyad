@@ -1,4 +1,4 @@
-# Hi, I'm Adam Marley!  
+# Hi, I'm Adam Marley!    
 ## Data Scientist | Data Analyst | Programmer
 
 ### 👨‍💻 Data Projects
