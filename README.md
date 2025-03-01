@@ -16,8 +16,8 @@
   A collection of SQL queries showcasing data retrieval, aggregation, and complex joins for in-depth data analysis.
 
 - **Python (NumPy and Pandas)**
-  - [Course Work](https://github.com/marleyad/numpy_and_pandas) *(private - request access due to academic integrity policies)*  
-  Hands-on exercises and projects using Python for data manipulation and analysis.
+  - [Data Cleaning and Analysis](https://github.com/marleyad/data_cleaning/tree/main)  
+    Performed data cleaning and exploratory analysis on real-world survey data using Python, Pandas, and NumPy.
 
 - **Tableau**
   - [Sales Dashboard/Visuals](https://github.com/marleyad/tableauproject/tree/main)  
