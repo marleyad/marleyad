@@ -4,7 +4,7 @@
 ### 👨‍💻 Data Projects
     
 - **Personal Study Log**
-  - [PDF Printout of Study Log](https://github.com/marleyad/personal_study_log)  
+  - [Study Log and Data Dictionary](https://github.com/marleyad/personal_study_log)  
   Logging each study day for consistent improvement
 
 - **R**
