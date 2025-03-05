@@ -11,7 +11,7 @@
   - [Personal Study Time Analysis](https://github.com/marleyad/studydata)  
   Analyzing study habits and identifying trends to optimize learning outcomes.
 
-- **SQL**
+- **SQL**  
   - [Data Analysis Queries](https://github.com/marleyad/SQL-Exercises)  
   A collection of SQL queries showcasing data retrieval, aggregation, and complex joins for in-depth data analysis.
 
