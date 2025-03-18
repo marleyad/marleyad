@@ -1,7 +1,7 @@
 # Hi, I'm Adam Marley!    
 ## Data Scientist | Data Analyst | Programmer 
 
-### 👨‍💻 Data Projects
+### 👨‍💻 Data Projects 
     
 - **Personal Study Log**
   - [Study Log and Data Dictionary](https://github.com/marleyad/personal_study_log)  
