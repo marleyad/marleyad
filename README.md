@@ -8,7 +8,7 @@
   Logging each study day for consistent improvement
 
 - **R**
-  - [Personal Data Tracking App](https://google.com)
+  - [Personal Data Tracking App](https://github.com/marleyad/life_tracker_2/tree/main)
   Description here  
   
   - [Personal Study Time Analysis](https://github.com/marleyad/studydata)  
