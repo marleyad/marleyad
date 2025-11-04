@@ -9,7 +9,7 @@
 
 - **R**
   - [Personal Data Tracking App](https://github.com/marleyad/life_tracker_2/tree/main)
-  Description here  
+  Life Tracker is a personal analytics app built to help track and visualize important metrics across key areas of life: faith, relationships, study, strength, and finances.
   
   - [Personal Study Time Analysis](https://github.com/marleyad/studydata)  
   Analyzing study habits and identifying trends to optimize learning outcomes.
