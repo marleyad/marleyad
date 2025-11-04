@@ -8,7 +8,7 @@
   Logging each study day for consistent improvement
 
 - **R**
-  - [Personal Data Tracking App](https://github.com/marleyad/life_tracker_2/tree/main)
+  - [Personal Data Tracking App](https://github.com/marleyad/life_tracker_2/tree/main)       
   Life Tracker is a personal analytics app built to help track and visualize important metrics across key areas of life: faith, relationships, study, strength, and finances.
   
   - [Personal Study Time Analysis](https://github.com/marleyad/studydata)  
